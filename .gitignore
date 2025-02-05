@@ -1,0 +1,8 @@
+/.deployment
+/.vscode
+/keys
+/runs
+/uploads
+/.venv
+/flaskr/users/
+/flaskr/__pycache__
